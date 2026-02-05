@@ -17,6 +17,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2418-sort-the-people](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0977-squares-of-a-sorted-array) |
+| [2418-sort-the-people](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0496-next-greater-element-i) |
+| [2418-sort-the-people](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
 | ------- |
@@ -69,6 +72,7 @@
 | [0344-reverse-string](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [2418-sort-the-people](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2418-sort-the-people) |
 ## Queue
 |  |
 | ------- |
