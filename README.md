@@ -72,6 +72,7 @@
 | [0344-reverse-string](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2418-sort-the-people](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2418-sort-the-people) |
 ## Queue
 |  |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Linked List
 |  |
 | ------- |
