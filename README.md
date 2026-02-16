@@ -14,6 +14,7 @@
 | [0704-binary-search](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0739-daily-temperatures) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0918-maximum-sum-circular-subarray) |
 | [0946-validate-stack-sequences](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0918-maximum-sum-circular-subarray) |
 ## String
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -124,6 +127,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -153,4 +157,8 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0946-validate-stack-sequences) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
