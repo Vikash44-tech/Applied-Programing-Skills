@@ -42,6 +42,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0217-contains-duplicate) |
@@ -52,6 +53,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0219-contains-duplicate-ii) |
 ## Prefix Sum
 |  |
@@ -75,6 +77,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0344-reverse-string) |
