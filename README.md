@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0075-sort-colors) |
@@ -47,6 +48,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0160-intersection-of-two-linked-lists) |
