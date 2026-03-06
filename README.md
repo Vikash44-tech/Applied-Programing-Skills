@@ -96,6 +96,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1408-string-matching-in-an-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1408-string-matching-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2418-sort-the-people](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2418-sort-the-people) |
 ## Queue
 |  |
