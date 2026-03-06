@@ -26,6 +26,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2418-sort-the-people) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0704-binary-search) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
 |  |
 | ------- |
