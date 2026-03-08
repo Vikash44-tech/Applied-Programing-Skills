@@ -17,6 +17,7 @@
 | [0704-binary-search](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0875-koko-eating-bananas) |
 | [0890-find-and-replace-pattern](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0918-maximum-sum-circular-subarray) |
 | [0946-validate-stack-sequences](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0946-validate-stack-sequences) |
@@ -81,6 +82,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0278-first-bad-version](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
