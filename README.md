@@ -194,4 +194,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0278-first-bad-version) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1009-complement-of-base-10-integer](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1009-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
