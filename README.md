@@ -28,6 +28,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2418-sort-the-people](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2418-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
@@ -86,6 +87,7 @@
 | [0875-koko-eating-bananas](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
@@ -200,4 +202,8 @@
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1009-complement-of-base-10-integer) |
+## Greedy
+|  |
+| ------- |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 <!---LeetCode Topics End-->
