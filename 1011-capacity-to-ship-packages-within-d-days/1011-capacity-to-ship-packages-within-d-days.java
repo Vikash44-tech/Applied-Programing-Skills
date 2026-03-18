@@ -22,7 +22,7 @@ class Solution {
         return true;
     }
     public int shipWithinDays(int[] weights, int days) {
-    int l = 1, r = Integer.MAX_VALUE;
+    int l = 1, r = 25 * (int)Math.pow(10,6);
         while(l <= r){
             int mid = l + (r - l) / 2;
             if(isPossible(weights,days,mid)){
