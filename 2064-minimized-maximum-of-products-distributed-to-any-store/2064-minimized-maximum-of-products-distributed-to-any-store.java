@@ -15,7 +15,7 @@ class Solution {
         return true;
     }
     public int minimizedMaximum(int n, int[] quantities) {
-        int l = 1,r = Integer.MAX_VALUE;
+        int l = 1,r = (int)Math.pow(10,10);
         while(l <= r){
             int mid = l + (r - l) / 2;
             if(isPossible(quantities,n,mid)){
