@@ -27,6 +27,7 @@
 | [1408-string-matching-in-an-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1408-string-matching-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1480-running-sum-of-1d-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1552-magnetic-force-between-two-balls) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2418-sort-the-people](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2418-sort-the-people) |
@@ -50,6 +51,7 @@
 | [0075-sort-colors](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0977-squares-of-a-sorted-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1552-magnetic-force-between-two-balls) |
 | [2418-sort-the-people](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -87,6 +89,7 @@
 | [0875-koko-eating-bananas](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1552-magnetic-force-between-two-balls) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
