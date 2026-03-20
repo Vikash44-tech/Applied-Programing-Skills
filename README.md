@@ -29,6 +29,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1552-magnetic-force-between-two-balls) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2418-sort-the-people](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2418-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -90,6 +91,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1552-magnetic-force-between-two-balls) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
