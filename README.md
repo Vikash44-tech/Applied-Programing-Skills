@@ -31,6 +31,7 @@
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2418-sort-the-people](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2418-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
@@ -93,6 +94,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
