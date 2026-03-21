@@ -1,45 +1,47 @@
 class Solution {
-    public static int leftMost(int[] nums, int target){
+    public int[] searchRange(int[] nums, int target) {
+        int first = findFirst(nums, target);
+        int last = findLast(nums, target);
+        return new int[]{first, last};
+    }
+
+    // Find first occurrence
+    public int findFirst(int[] nums, int target) {
         int l = 0, r = nums.length - 1;
-        while(l <= r){
+        int ans = -1;
+
+        while (l <= r) {
             int mid = l + (r - l) / 2;
-            if(nums[mid] >= target){
+
+            if (nums[mid] == target) {
+                ans = mid;
+                r = mid - 1; // move left
+            } else if (nums[mid] > target) {
                 r = mid - 1;
-            }else{
+            } else {
                 l = mid + 1;
             }
         }
-            if(l >= nums.length){
-                return -1;
-            }
-            if(nums[l] != target){
-                return -1;
-            }
-        return l;
+        return ans;
     }
-    public static int rightMost(int[] nums, int target){
+
+    // Find last occurrence
+    public int findLast(int[] nums, int target) {
         int l = 0, r = nums.length - 1;
-        
-        while(l <= r){
+        int ans = -1;
+
+        while (l <= r) {
             int mid = l + (r - l) / 2;
-            if(nums[mid] > target){
+
+            if (nums[mid] == target) {
+                ans = mid;
+                l = mid + 1; // move right
+            } else if (nums[mid] > target) {
                 r = mid - 1;
-            }else{
+            } else {
                 l = mid + 1;
             }
         }
-            if(r < 0){
-                return -1;
-            }
-            if(nums[r] != target){
-                return -1;
-            }
-        return r;
-    }
-    public static int[] searchRange(int[] nums, int target){
-        int lm = leftMost(nums, target);
-        int rm = rightMost(nums, target);
-        int[] ans = {lm, rm};
         return ans;
     }
 }
