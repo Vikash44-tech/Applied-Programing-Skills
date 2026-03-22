@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0283-move-zeroes) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0704-binary-search) |
