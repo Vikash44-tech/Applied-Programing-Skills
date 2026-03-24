@@ -36,6 +36,7 @@
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2418-sort-the-people](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2418-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
@@ -50,6 +51,7 @@
 | [0344-reverse-string](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0977-squares-of-a-sorted-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [0217-contains-duplicate](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1552-magnetic-force-between-two-balls) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2418-sort-the-people](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -104,6 +107,7 @@
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
