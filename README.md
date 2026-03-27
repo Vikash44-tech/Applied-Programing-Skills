@@ -60,6 +60,7 @@
 | [0075-sort-colors](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0977-squares-of-a-sorted-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1552-magnetic-force-between-two-balls) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2418-sort-the-people](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2418-sort-the-people) |
@@ -75,6 +76,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0496-next-greater-element-i) |
 | [0890-find-and-replace-pattern](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0890-find-and-replace-pattern) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2418-sort-the-people](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
@@ -245,6 +247,7 @@
 | [0101-symmetric-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0145-binary-tree-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -253,11 +256,13 @@
 | [0101-symmetric-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0145-binary-tree-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0101-symmetric-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -266,4 +271,5 @@
 | [0101-symmetric-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0145-binary-tree-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
