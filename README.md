@@ -234,4 +234,20 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0410-split-array-largest-sum) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
