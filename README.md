@@ -163,6 +163,7 @@
 | [0020-valid-parentheses](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0496-next-greater-element-i) |
@@ -243,6 +244,7 @@
 | [0100-same-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -250,6 +252,7 @@
 | [0100-same-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -262,4 +265,5 @@
 | [0100-same-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
