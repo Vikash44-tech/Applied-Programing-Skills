@@ -12,6 +12,7 @@
 | [0049-group-anagrams](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0169-majority-element) |
@@ -302,6 +303,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0190-reverse-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1009-complement-of-base-10-integer) |
 | [1763-longest-nice-substring](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1763-longest-nice-substring) |
@@ -397,6 +399,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
