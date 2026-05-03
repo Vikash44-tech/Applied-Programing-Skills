@@ -21,6 +21,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0410-split-array-largest-sum](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0496-next-greater-element-i) |
+| [0695-max-area-of-island](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0739-daily-temperatures) |
@@ -289,6 +290,7 @@
 | [0257-binary-tree-paths](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0695-max-area-of-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -299,6 +301,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0695-max-area-of-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1971-find-if-path-exists-in-graph) |
@@ -342,6 +345,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -352,5 +356,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
