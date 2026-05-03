@@ -18,6 +18,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0410-split-array-largest-sum](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0704-binary-search) |
@@ -203,6 +204,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Merge Sort
 |  |
 | ------- |
