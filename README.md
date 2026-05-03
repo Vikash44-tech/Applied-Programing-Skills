@@ -21,6 +21,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0410-split-array-largest-sum](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0735-asteroid-collision) |
@@ -132,6 +133,7 @@
 | [0053-maximum-subarray](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0410-split-array-largest-sum) |
+| [0542-01-matrix](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0542-01-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0918-maximum-sum-circular-subarray) |
 ## String
 |  |
@@ -306,6 +308,7 @@
 | [0112-path-sum](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0210-course-schedule-ii) |
+| [0542-01-matrix](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0841-keys-and-rooms) |
@@ -370,6 +373,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0994-rotting-oranges) |
 ## Topological Sort
