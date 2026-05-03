@@ -30,6 +30,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0918-maximum-sum-circular-subarray) |
 | [0946-validate-stack-sequences](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -297,6 +298,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0112-path-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -343,4 +345,8 @@
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
