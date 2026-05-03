@@ -251,6 +251,7 @@
 | [0113-path-sum-ii](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0145-binary-tree-postorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0543-diameter-of-binary-tree) |
@@ -266,6 +267,7 @@
 | [0113-path-sum-ii](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0145-binary-tree-postorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0543-diameter-of-binary-tree) |
@@ -289,6 +291,7 @@
 | [0113-path-sum-ii](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0145-binary-tree-postorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0543-diameter-of-binary-tree) |
@@ -298,4 +301,8 @@
 | ------- |
 | [0113-path-sum-ii](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0257-binary-tree-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
