@@ -30,6 +30,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0918-maximum-sum-circular-subarray) |
 | [0946-validate-stack-sequences](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1408-string-matching-in-an-array) |
@@ -83,6 +84,7 @@
 | [0496-next-greater-element-i](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0496-next-greater-element-i) |
 | [0890-find-and-replace-pattern](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0890-find-and-replace-pattern) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0997-find-the-town-judge](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0997-find-the-town-judge) |
 | [2418-sort-the-people](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
@@ -339,5 +341,6 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
