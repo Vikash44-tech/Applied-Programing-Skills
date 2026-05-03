@@ -288,6 +288,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -297,6 +298,7 @@
 | [0101-symmetric-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0112-path-sum) |
+| [0547-number-of-provinces](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1971-find-if-path-exists-in-graph) |
@@ -339,10 +341,12 @@
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
