@@ -103,12 +103,14 @@
 | [0929-unique-email-addresses](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0929-unique-email-addresses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0997-find-the-town-judge) |
+| [1763-longest-nice-substring](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1763-longest-nice-substring) |
 | [2418-sort-the-people](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0219-contains-duplicate-ii) |
+| [1763-longest-nice-substring](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1763-longest-nice-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1408-string-matching-in-an-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1408-string-matching-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1763-longest-nice-substring](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1763-longest-nice-substring) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2418-sort-the-people](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/2418-sort-the-people) |
 ## Queue
@@ -226,6 +229,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0918-maximum-sum-circular-subarray) |
+| [1763-longest-nice-substring](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -276,6 +280,7 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0190-reverse-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1009-complement-of-base-10-integer) |
+| [1763-longest-nice-substring](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1763-longest-nice-substring) |
 ## Greedy
 |  |
 | ------- |
