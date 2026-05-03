@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0217-contains-duplicate) |
@@ -84,6 +86,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0202-happy-number) |
@@ -151,6 +154,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0387-first-unique-character-in-a-string) |
