@@ -124,6 +124,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0973-k-closest-points-to-origin) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0542-01-matrix) |
@@ -446,4 +448,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0973-k-closest-points-to-origin) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
