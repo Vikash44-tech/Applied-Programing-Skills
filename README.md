@@ -25,6 +25,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0410-split-array-largest-sum](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0410-split-array-largest-sum) |
+| [0474-ones-and-zeroes](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0695-max-area-of-island) |
@@ -163,6 +164,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0410-split-array-largest-sum) |
+| [0474-ones-and-zeroes](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0918-maximum-sum-circular-subarray) |
@@ -176,6 +178,7 @@
 | [0257-binary-tree-paths](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0474-ones-and-zeroes) |
 | [0721-accounts-merge](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0721-accounts-merge) |
 | [0890-find-and-replace-pattern](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0890-find-and-replace-pattern) |
 | [0929-unique-email-addresses](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0929-unique-email-addresses) |
