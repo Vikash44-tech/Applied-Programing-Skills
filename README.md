@@ -34,6 +34,7 @@
 | [0735-asteroid-collision](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0875-koko-eating-bananas) |
 | [0890-find-and-replace-pattern](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0918-maximum-sum-circular-subarray) |
@@ -161,6 +162,7 @@
 | [0198-house-robber](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vikash44-tech/Applied-Programing-Skills/tree/master/0918-maximum-sum-circular-subarray) |
 ## String
 |  |
